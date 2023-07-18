@@ -1,0 +1,1 @@
+export const SAVE_AUTHORIZATION = "save_authorization" as const;
